@@ -1,0 +1,11 @@
+{
+	"schemaVersion": 1,
+	"id": "stealmod",
+	"name": "Token Stealer",
+	"version": "${version}",
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": ">=1.20.1",
+		"java": ">=17"
+	}
+}
